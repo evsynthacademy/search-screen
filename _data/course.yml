@@ -1,6 +1,6 @@
 title: Introduction to Search/Screen
 description: Get Started with Searching/Screening!
-modules: [Who we are,Getting Started ]
+modules: [Who we are,Getting Started, Design Search ]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
