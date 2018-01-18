@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-# Introduction to Search/Screen
+
 
 This is the fourth part in a series of online courses about how to conduct a systematic review. If you haven’t completed the other steps yet, please [visit our homepage](https://evsynthacademy.org) to start from the beginning. 
 
