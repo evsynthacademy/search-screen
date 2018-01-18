@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /pico-d
+baseurl: /search-screen
 markdown: kramdown
 permalink: /:categories/:title/
 
