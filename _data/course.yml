@@ -1,0 +1,6 @@
+title: Developing your research question
+description: Developing your research question
+modules: [Who we are,Getting Started ]
+signups:
+js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
+ 
