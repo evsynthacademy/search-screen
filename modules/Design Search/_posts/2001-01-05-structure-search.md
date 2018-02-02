@@ -17,7 +17,7 @@ In some cases, you might also add:
 <img src="{{site.baseurl}}/img/search-structure-02.PNG" width="400" >
 </center>
 
-How do you include your comparators in your search? You have a few options. You can include the comparator in the sting of “ORs” with the intervention:
+How do you include your comparators in your search? You have a few options. You can include the comparator in the string of “ORs” with the intervention:
 
 <center>
 <img src="{{site.baseurl}}/img/search-structure-03.PNG" width="400" >
