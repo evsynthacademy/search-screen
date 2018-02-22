@@ -4,7 +4,10 @@
 
 ## Abstract Screening
 
-%%%%%%%%%%%%%%%%Need Abstrakr ScreenShot%%%%%%%%%
+<center>
+<img src="{{site.baseurl}}/img/abstrackr.png" >
+</center>
+
 
 The first step of the screening process is called abstract screening.  Systematic review searches can yield thousands of citations, so it is unreasonable to read the full text of every single potentially relevant article.  By first reading only the abstracts, you can substantially reduce the number of full-text articles you have to retrieve and read later on in the screening process.<br><br>
 
