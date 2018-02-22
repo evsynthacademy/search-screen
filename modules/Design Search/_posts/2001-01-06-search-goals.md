@@ -5,7 +5,7 @@
 ## Goals of the search
 
 <center>
-<img src="{{site.baseurl}}/img/fishnet.PNG">
+<img src="{{site.baseurl}}/img/fishnet.png">
 </center>
 
 
