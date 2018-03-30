@@ -5,7 +5,7 @@
 ## Abstract Screening
 
 <center>
-<embed src="{{site.baseurl}}/img/1_Abstrackr Intro 2.mp4" autostart="false" height="30" width="144" />
+<embed src="{{site.baseurl}}/img/1_Abstrackr Intro 2.mp4" autostart="0"/>
 </center>
 
 
