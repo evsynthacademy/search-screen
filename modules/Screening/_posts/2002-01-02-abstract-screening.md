@@ -5,10 +5,7 @@
 ## Abstract Screening
 
 <center>
-<embed src="{{site.baseurl}}/img/1_Abstrackr Intro 2.mp4" type="audio/mp4" autostart="false" height = "500" width = "800"/>
-
-
-<video width="320" height="240" controls>
+<video width="560" height="315" controls controlsList="nodownload">
   <source src="{{site.baseurl}}/img/1_Abstrackr Intro 2.mp4" type="video/mp4">
 </video>
 </center>
