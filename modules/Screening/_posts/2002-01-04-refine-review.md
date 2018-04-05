@@ -12,7 +12,9 @@ To do this, you may want to create a rough “data extraction form” to capture
 - The specific interventions/comparators
 - The study design
 - The sample size  
-<br><br>
+
+
+
 You can use this initial extraction form to sort your abstracts by the PICO(D) criteria you captured and help assess the scope of the literature from your search. For instance, If, during this process, you notice that you have a reasonable number of randomized, controlled trials among the abstracts you selected, you may no longer need to include nonrandomized studies in your review. Likewise, If you discover that your search results include many large studies, you may be able to adjust your inclusion criteria to capture only big scale research.
 <br><br>
 If you have multiple research questions, you may also want to note which question matches which abstract.  And if, upon closer inspection, you conclude that an abstract was incorrectly accepted during the first stage of screening, just record your reason for rejecting it at this stage.  This information should be included in your report, usually in the form of a “literature identification flow diagram” at the beginning of the results and a full list of rejected studies with their rejection reasons in an appendix.
