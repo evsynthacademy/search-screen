@@ -13,7 +13,7 @@ Here at the Center for Evidence Synthesis in Health, we've created an online too
 For more information about how to use Abstrackr, check out these tutorials:
 
 <ul>
-  <li><a href = "">Creating a Review</a></li> 
-  <li><a href = "">How to Screen</a></li> 
-  <li><a href = "">Managing a Review</a></li> 
+  <li><a href = "http://evsynthacademy.org/search-screen/img/2_Abstrackr Creating a Review 2.mp4">Creating a Review</a></li> 
+  <li><a href = "http://evsynthacademy.org/search-screen/img/3_Abstrackr How to Screen 2.mp4">How to Screen</a></li> 
+  <li><a href = "http://evsynthacademy.org/search-screen/img/4_Abstrackr Managing A Review 2.mp4">Managing a Review</a></li> 
  </ul>
