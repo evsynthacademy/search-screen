@@ -4,7 +4,7 @@
 
 ## Abstract Screening + Abstrackr
 <br>
-Here at the Center for Evidence Synthesis in Health, we've created an online tool called "abstrackr" that helps you streamline the abstract screening process. See below for a quick introduction to the software.<br>
+Here at the Center for Evidence Synthesis in Health, we've created an online tool called "abstrackr" that helps you streamline the abstract screening process. See below for a quick introduction to the software.<br><br>
 <center>
 <video width="560" height="315" controls controlsList="nodownload">
   <source src="{{site.baseurl}}/img/1_Abstrackr Intro 2.mp4" type="video/mp4">
