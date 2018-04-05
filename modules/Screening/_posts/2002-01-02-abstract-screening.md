@@ -1,5 +1,5 @@
 ---
-  title: "Abstract Screening + Abstrackr"
+  title: "Abstract Screening"
 ---
 
 ## Abstract Screening + Abstrackr
