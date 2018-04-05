@@ -1,4 +1,9 @@
+---
+  title: "How to Screen Abstracts"
+---
 
+## How to Screen Abstracts
+<br>
 The first step of the screening process is called abstract screening.  Systematic review searches can yield thousands of citations, so it is unreasonable to read the full text of every single potentially relevant article.  By first reading only the abstracts, you can substantially reduce the number of full-text articles you have to retrieve and read later on in the screening process.<br><br>
 
 To get started, assemble a team of screeners. To avoid accidentally screening out a relevant article, and to save time, you’ll want to be sure you’re not doing this step all alone.
