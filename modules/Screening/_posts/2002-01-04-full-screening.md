@@ -4,4 +4,12 @@
 
 ## Full-Text Screening
 
-Once you have compiled a list of abstracts that appear to satisfy your eligibility criteria, you will want to get the full-text documents to verify which will be included in the final review based on all of the PICO(D) criteria. This step is usually done in parallel with data extraction, which is the next course in our series. Before extracting each article, read it in full to make a final determination on whether it is eligible. If you find a study that should be rejected at this stage, make sure to record why in order to facilitate your final report and ensure transparency of the process.
+Once you’ve decided which abstracts meet your eligibility criteria, you’ll want to find the full-text documents for one last screen of the studies. 
+
+You usually conduct full-text screening at the same time you’re extracting your data, which is the next course in our series. 
+
+Just remember to read the full text of an article before you extract the data. If you find a study that should be rejected at this stage, write down the rejection reason. You’ll want to include this information in your final report. 
+
+Congratulations! You now know how to screen your studies!
+
+It’s time to move on to the next step of conducting a systematic review: <a href = "http://evsynthacademy.org/extract-data/">extract your data</a>. 
