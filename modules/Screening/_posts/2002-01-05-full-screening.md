@@ -12,4 +12,4 @@ Just remember to read the full text of an article before you extract the data. I
 
 Congratulations! You now know how to screen your studies!
 
-It’s time to move on to the next step of conducting a systematic review: <a href = "http://evsynthacademy.org/extract-data/">extract your data</a>. 
+It’s time to move on to the next step of conducting a systematic review: <a href = "http://evsynthacademy.org/extract-data/">Extract Your Data</a>. 
